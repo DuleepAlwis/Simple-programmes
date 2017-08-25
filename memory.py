@@ -85,10 +85,7 @@ class memory:
 
 
 
-def ProcessManager():
-    a=memory()
-    
-            
+
         
                     
                 
